@@ -77,9 +77,9 @@ The project uses a Linear Regression model to predict the price of the cars. The
     
     **MAE:** 2953.36
   
-    **MAPE:** 73.44%
+    **MAPE:** 73.44%     *(Relatively good R² Score compared to the other submissions of the price challenge)*
   
-    **R² Score:** 0.723   *(Relatively good R² Score compared to the other submissions of the price challenge)*
+    **R² Score:** 0.723   
   
 
 
