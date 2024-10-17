@@ -76,6 +76,11 @@ The project uses a Linear Regression model to predict the price of the cars. The
     **RMSE:** 4563.76
     
     **MAE:** 2953.36
+  
+    **MAPE:** 73.44%
+  
+    **R² Score:** 0.723   *(Relatively good R² Score compared to the other submissions of the price challenge)*
+  
 
 
 
