@@ -9,7 +9,7 @@
 
 ## **Project Overview**
 
-This project aims to predict the price of used BMW cars sold at auction using a dataset of real BMW cars sold in 2018. The dataset provides various features about each car, including mileage, engine power, fuel type, and registration date, which are used to train a regression model. The goal is to build a model that accurately estimates the price of a used car based on its specifications.
+This project aims to predict the price of used BMW cars using a dataset of real BMW cars sold in 2018. The dataset provides various features about each car, including mileage, engine power, fuel type, and registration date, which are used to train a regression model. The goal is to build a model that accurately estimates the price of a used car based on its specifications.
 
 ## **Dataset**
 The dataset consists of approximately 5,000 BMW cars sold in 2018. It includes the following columns:
