@@ -28,7 +28,7 @@ The dataset consists of approximately 5,000 BMW cars sold in 2018. It includes t
 
 **feature_1 to feature_8:** Additional equipment features of the car.
 
-**price:** The target variable, representing the highest auction bid price for the car.
+**price:** The target variable, representing the price the car was sold at.
 
 
 ## **Features**
