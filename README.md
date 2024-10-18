@@ -35,7 +35,7 @@ The dataset consists of approximately 5,000 BMW cars sold in 2018. It includes t
 
 - **Machine Learning Model**: Built using Python's popular libraries (e.g., Scikit-learn, Pandas, NumPy).
 - **Data Preprocessing**: Includes data cleaning, feature engineering, and normalization.
-- **Model Training**: Implemented various models, including linear regression and random forests.
+- **Model Training**: Implemented the linear regression machine learning model (more types of models will be trained in the future).
 - **Evaluation**: Assessed models using RMSE, MAE, and R-squared metrics.
 - **Prediction**: Provides accurate car price estimates based on car specifications.
 
