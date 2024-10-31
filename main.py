@@ -72,6 +72,52 @@ pd.DataFrame(data.isnull().sum().sort_values(ascending=False)).head(20)
 
 
 
+###Data Visualization:
+# %%
+
+#Price Distribution
+plt.figure(figsize=(12, 6))
+plt.subplot(2, 3, 1)
+sns.histplot(data['price'], kde=True)
+plt.title('Price Distribution')
+plt.xlabel('Price')
+plt.ylabel('Frequency')
+
+# %%
+#Correlation Heatmap
+plt.subplot(2, 3, 2)
+corr = data.corr(numeric_only=True)
+sns.heatmap(corr, annot=True, fmt=".2f", cmap='coolwarm')
+plt.title('Correlation Heatmap')
+
+# %%
+#Mileage vs. Price Scatter Plot
+plt.subplot(2, 3, 3)
+sns.scatterplot(x=data['mileage'], y=data['price'])
+plt.title('Mileage vs. Price')
+plt.xlabel('Mileage')
+plt.ylabel('Price')
+
+# %%
+#Engine Power vs. Price Scatter Plot
+plt.subplot(2, 3, 4)
+sns.scatterplot(x=data['engine_power'], y=data['price'])
+plt.title('Engine Power vs. Price')
+plt.xlabel('Engine Power')
+plt.ylabel('Price')
+
+# %%
+#Fuel Type Distribution
+plt.subplot(2, 3, 5)
+sns.countplot(data=data, x='fuel')
+plt.title('Fuel Type Distribution')
+plt.xlabel('Fuel Type')
+plt.ylabel('Count')
+
+
+
+
+
 # %%
 
 # Which features are most correlated to the price?
