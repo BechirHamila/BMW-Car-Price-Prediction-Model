@@ -68,8 +68,13 @@ The project now includes a diverse range of models to improve prediction accurac
 - **Model Evaluation:** Using metrics like MSE, RMSE, MAE, MAPE, and R² to evaluate model performance.
 
   
+  ![image](https://github.com/user-attachments/assets/4b4a5b0b-2edb-4877-a4af-debc650f8101)
+
+  
 **Key Findings:**
 - **Most Correlated Features:** A correlation analysis shows that certain features have a higher impact on the price.
+
+![tetwq](https://github.com/user-attachments/assets/023ad8fe-77d8-4906-9f0e-87c746f82af6)
 
 - **Model Performance:** Below are the performance results of key models:
 
