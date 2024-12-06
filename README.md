@@ -68,7 +68,8 @@ The project now includes a diverse range of models to improve prediction accurac
 - **Model Evaluation:** Using metrics like MSE, RMSE, MAE, MAPE, and R² to evaluate model performance.
 
   
-  ![image](https://github.com/user-attachments/assets/4b4a5b0b-2edb-4877-a4af-debc650f8101)
+![image](https://github.com/user-attachments/assets/cb2c02c2-2ac4-414f-81a9-08c1715cfca0)
+
 
   
 **Key Findings:**
