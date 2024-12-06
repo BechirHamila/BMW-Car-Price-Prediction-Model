@@ -7,15 +7,6 @@
   </a>
 </p>
 
-# BMW Used Car Price Prediction Model
-
-<p align="center">
-
-  <a href="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg" width="100"/>
-  </a>
-</p>
-
 ## **Project Overview**
 
 This project aims to predict the price of used BMW cars using a dataset of real BMW cars sold in 2018. The dataset provides various features about each car, including mileage, engine power, fuel type, and registration date, which are used to train regression models. The goal is to build a model that accurately estimates the price of a used car based on its specifications.
